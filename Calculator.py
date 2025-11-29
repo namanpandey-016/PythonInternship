@@ -1,5 +1,5 @@
 #Program to calculate (ADD, SUBTRACT, MULTIPLY AND DIVIDE)
- mylist = []
+
 print("CALCULATOR")
 while True:
     print("""
